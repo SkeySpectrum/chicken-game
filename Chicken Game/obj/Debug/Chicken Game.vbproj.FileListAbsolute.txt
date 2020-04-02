@@ -1,0 +1,12 @@
+F:\User\School\IPS\TeSP TPSI\2º Semestre\Engenharia de Software\GitHub\chicken-game\Chicken Game\bin\Debug\Chicken Game.exe.config
+F:\User\School\IPS\TeSP TPSI\2º Semestre\Engenharia de Software\GitHub\chicken-game\Chicken Game\bin\Debug\Chicken Game.exe
+F:\User\School\IPS\TeSP TPSI\2º Semestre\Engenharia de Software\GitHub\chicken-game\Chicken Game\bin\Debug\Chicken Game.pdb
+F:\User\School\IPS\TeSP TPSI\2º Semestre\Engenharia de Software\GitHub\chicken-game\Chicken Game\bin\Debug\Chicken Game.xml
+F:\User\School\IPS\TeSP TPSI\2º Semestre\Engenharia de Software\GitHub\chicken-game\Chicken Game\obj\Debug\Chicken Game.vbprojAssemblyReference.cache
+F:\User\School\IPS\TeSP TPSI\2º Semestre\Engenharia de Software\GitHub\chicken-game\Chicken Game\obj\Debug\Chicken_Game.Resources.resources
+F:\User\School\IPS\TeSP TPSI\2º Semestre\Engenharia de Software\GitHub\chicken-game\Chicken Game\obj\Debug\Chicken Game.vbproj.GenerateResource.cache
+F:\User\School\IPS\TeSP TPSI\2º Semestre\Engenharia de Software\GitHub\chicken-game\Chicken Game\obj\Debug\Chicken Game.vbproj.CoreCompileInputs.cache
+F:\User\School\IPS\TeSP TPSI\2º Semestre\Engenharia de Software\GitHub\chicken-game\Chicken Game\obj\Debug\Chicken Game.exe
+F:\User\School\IPS\TeSP TPSI\2º Semestre\Engenharia de Software\GitHub\chicken-game\Chicken Game\obj\Debug\Chicken Game.xml
+F:\User\School\IPS\TeSP TPSI\2º Semestre\Engenharia de Software\GitHub\chicken-game\Chicken Game\obj\Debug\Chicken Game.pdb
+F:\User\School\IPS\TeSP TPSI\2º Semestre\Engenharia de Software\GitHub\chicken-game\Chicken Game\obj\Debug\Chicken_Game.Main.resources
